@@ -1,3 +1,3 @@
 # ChatApp
 A Simple ChatApp
-! [] (https://imgur.com/npeQmKY.jpg)
+! [] (https://imgur.com/npeQmKY.png)
